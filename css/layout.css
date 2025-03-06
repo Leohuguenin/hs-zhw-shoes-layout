@@ -22,6 +22,10 @@
   clear: both;
 }
 
+.milk_text  {
+  margin-top: 10px !important;
+}
+
 /* Positioning Classes */
 
 #deals {
@@ -34,4 +38,8 @@
   grid-template-columns: 2fr 1fr;
   gap: 20px;
   margin-bottom: 20px;
+}
+
+#details-content {
+  column-count: 3;
 }
